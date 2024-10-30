@@ -11,5 +11,5 @@ solucion <- function() {
   y <- NULL # ingresa valor aquí
   s <- a*x-b
   t <- 2*s+c-d
-  return(s,t)
+  return(c(s,t,d,s))
 }
