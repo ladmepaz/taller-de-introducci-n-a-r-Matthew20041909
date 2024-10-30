@@ -1,9 +1,9 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
-solucion <- function() {
+solucion <- function(s) {
   # Asigna valores a 'b' de manera que el valor asignado a 's' sea 20 
   a <- 4 # asigna valor aquí
-  b <- NULL # asigna valor aquí
+  b <- 5 # asigna valor aquí
   s <- 2*(a+b)+2
   return(s)
 }
