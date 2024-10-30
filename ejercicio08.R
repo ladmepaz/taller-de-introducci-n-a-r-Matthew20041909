@@ -1,6 +1,6 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
-solucion <- function() {
+solucion <- function(c) {
   # Ingresa valores en las líneas indicadas de manera que a 's' se le asigne 4
   # y a 't' se le asigne 10
   a <- 4
